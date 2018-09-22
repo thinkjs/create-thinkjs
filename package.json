@@ -1,0 +1,17 @@
+{
+  "name": "create-thinkjs",
+  "version": "1.0.0",
+  "description": "Create ThinkJS with no build configuration",
+  "keywords": [
+    "thinkjs"
+  ],
+  "main": "./index.js",
+  "author": "lizheming <i@imnerd.org>",
+  "license": "MIT",
+  "dependencies": {
+    "think-cli": "^2.2.6"
+  },
+  "bin": {
+    "create-thinkjs": "./index.js"
+  }
+}
